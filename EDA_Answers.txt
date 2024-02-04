@@ -1,0 +1,18 @@
+1. Which gender has the most sales?
+A-Females have the most number of sales.
+2.Which age-grp has the most number of  sales?
+A-26-35 age group has the most number of sales
+3.Which occupation buys the most ?
+A-People  from IT sector has more purchasing power
+4.Which state has the most buys?
+A-Uttar Pradesh has the most buys
+5.Which gender in the age grps has the most number of sales?
+A-Females of 26-35 buys the most
+6.Does married or unmarried people buys the most?
+A-Unmarried people buys the most 
+7.Which zone has highest sales?
+A-Central zone has highest sales
+Reason-Female has more purchasing power because they comparatively buy more gold and clothes.
+IT sector mostly 26-35 age group so they purchase more as youngsters spend more and save less relatively.
+Suggestion- To improve sales men should be provided surveys then targeted campaign's should be there specificaly to men 
+The company should intrduce special event ,coupons,discounts to men customers. 
